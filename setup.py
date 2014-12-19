@@ -13,7 +13,7 @@ setup(
         'django date range',
     ],
     install_requires=[
-        "Django",
+        "Django>1.4",
     ],
     packages=find_packages(),
     include_package_data=True,
